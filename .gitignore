@@ -40,3 +40,7 @@ __pycache__/
 .DS_Store
 .idea
 meridian-migration-demo/
+
+# Claude Code local tooling
+.agents/
+.claude/settings.local.json
